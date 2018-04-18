@@ -1,0 +1,6 @@
+(jbuild_version 1)
+
+(library
+ ((name lifesigns)
+  (public_name lifesigns)
+  (libraries (core_kernel async_kernel))))
