@@ -1,3 +1,7 @@
 .PHONY: all
 all:
-	jbuilder build
+	jbuilder build --dev
+
+.PHONY: clean
+clean:
+	jbuilder clean
