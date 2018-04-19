@@ -20,7 +20,7 @@ tag: ## Tag the current release
 
 .PHONY: publish
 publish: ## Put the release on GitHub
-	topkg publish
+	topkg publish distrib
 
 .PHONY: help
 help: ## Show this help
