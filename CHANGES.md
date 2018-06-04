@@ -1,3 +1,8 @@
+0.9.1
+=====
+
+* Fix nonsensical signature
+
 0.9.0
 =====
 
