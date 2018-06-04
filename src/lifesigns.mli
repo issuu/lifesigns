@@ -1,3 +1,1 @@
-type t
-
-val init : ?updates_per_minute:int -> t -> unit
+val init : ?updates_per_minute:int -> string -> unit
