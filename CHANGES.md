@@ -1,3 +1,6 @@
+* Move on from `jbuilder` to `dune`
+* Add builds on Travis CI
+
 0.9.1
 =====
 
