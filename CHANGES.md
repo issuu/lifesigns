@@ -1,3 +1,6 @@
+0.9.2
+=====
+
 * Move on from `jbuilder` to `dune`
 * Add builds on Travis CI
 
