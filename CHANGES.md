@@ -1,3 +1,6 @@
+0.9.3
+=====
+
 * Upgrade to OPAM2
 * Drop upper version constraints
 
