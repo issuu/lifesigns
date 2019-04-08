@@ -1,3 +1,6 @@
+* Upgrade to OPAM2
+* Drop upper version constraints
+
 0.9.2
 =====
 
