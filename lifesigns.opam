@@ -12,4 +12,6 @@ depends: [
   "async_kernel" {>= "v0.9"}
   "core_kernel" {>= "v0.9"}
 ]
-synopsis: "A heartbeat signal written to a file. Useful for heathchecks in Docker containers"
+synopsis: "A heartbeat signal written to a file"
+description: """
+Useful for health checks in Docker containers."""
